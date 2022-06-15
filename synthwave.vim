@@ -55,7 +55,7 @@ hi Identifier guifg=#96f3fa guibg=#000000 guisp=#000000 gui=NONE ctermfg=51 cter
 hi SpecialChar guifg=#c051d3 guibg=NONE guisp=NONE gui=NONE ctermfg=164 ctermbg=NONE cterm=NONE
 hi Conditional guifg=#db93c8 guibg=NONE guisp=NONE gui=bold ctermfg=175 ctermbg=NONE cterm=bold
 hi StorageClass guifg=#536991 guibg=NONE guisp=NONE gui=bold ctermfg=60 ctermbg=NONE cterm=bold
-hi Todo guifg=#000000 guibg=#00c4ff guisp=#00c4ff gui=NONE ctermfg=0 ctermbg=21 cterm=NONE
+hi Todo guifg=#000000 guibg=#00c4ff guisp=#00c4ff gui=NONE ctermfg=0 ctermbg=1 cterm=NONE
 hi Note guifg=#000000 guibg=#00c4ff guisp=#00c4ff gui=NONE ctermfg=0 ctermbg=40 cterm=NONE
 hi Section guifg=#000000 guibg=#00c4ff guisp=#00c4ff gui=NONE ctermfg=0 ctermbg=45 cterm=NONE
 hi Special guifg=#984aff guibg=NONE guisp=NONE gui=NONE ctermfg=135 ctermbg=NONE cterm=NONE
